@@ -28,3 +28,4 @@ jobs:
           sudo docker push heueun/frontend:latest
           docker-compose -f /home/ubuntu/web.yml pull
           docker-compose -f /home/ubuntu/web.yml up --force-recreate
+          
