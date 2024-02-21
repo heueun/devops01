@@ -11,7 +11,7 @@
             style="width: 800px; height: 670px; object-fit: contain"/>
         <div class="container">
       <p class="header-text">ㅇㅇ<br />FRIENDS.</p>
-        <p class="sub-text">반려가족의 하루에 WOOF가 함께하겠습니다.</p>
+        <p class="sub-text">반려가족의 하루에 어오ㅗ아ㅓㅗ아ㅗ 함께하겠습니다.</p>
     </div>
       </div>
     </div>
